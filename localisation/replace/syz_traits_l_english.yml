@@ -1,0 +1,45 @@
+﻿l_english:
+########待定党派
+ erciyuan:0 "次元党"
+ erciyuan_desc:0 "来自异世界"
+ erciy_desc:0 "这是属于大洗的特殊党派"
+ Comintern:0 "真理国际联合学校"
+#########大洗
+ POLITICS_NishizumiMiho_a_DESC:0 "作为学生会会长维持整个学校运营秩序的稳定是必要的。"
+ POLITICS_NishizumiMiho_DESC:0 "没有美穗就没有如今的大洗"
+ zhujueguanghuan:0 "主角光环"
+ junshen:0 "军神"
+ xizhumeihuiliu:1 "计划速度优先\n"
+ daotianliu:1 "突击防御优先\n"
+ HeartsofIron:0"战车道"
+ HeartsofIron_desc:0"对如何掌握战车非常的熟悉"
+ kantaicollection:0 "镇守府舰队制造商"
+ dieyeyameiliu:1"陆上自卫队战车教导队"
+ xizhuzhisuiliu:1 "战车精神造诣"
+ jiamingnailiu:1 "海上大家都是家人"
+ hengxuhejineng:1 "横须贺舰队制造商"
+ navy_chief_decisive_battle_4:1 "主力舰专精"
+ shuilei:1 "水雷长"
+ jiluyuan:1 "记录员"
+ paojishou:1 "炮术长"
+ hanghaizhang:1 "航海长"
+ paoshuyuan:1 "炮术员"
+ shuiceyuan:1 "水测员"
+ ########黑森峰
+ aihu:0 "战车道九连霸"
+ ########安齐奥
+ gjdd:0 "“诡计”"
+ aqazh:0 "安齐奥之魂"
+ #########继续
+ mkzy:0 "继续之音"
+ #########大学选拔队
+ alslk:0 "爱里寿返校"
+ BOKO:0 "忍者战法"
+ boko:0 "BOKO熊"
+ zhendaotianliu:0 "剑与盾\n"
+ ######知波单
+ warrior_codes:0 "突击！"
+ ######桑德斯
+ youqian:0 "工业优势"
+ ######圣葛罗丽安娜
+ youya:0 "优雅"
